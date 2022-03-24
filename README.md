@@ -3,7 +3,7 @@
 ### 261492 Final Project
 
 #### Installation
-1. Download and extract a zip file </br>(DownloadLink: https://drive.google.com/drive/folders/1uSZL9VLKWrT2mUdXgKdaUr8EQlYOeRyV?usp=sharing )
+1. Download a zip file and extract a zip file </br>(DownloadLink(Zip and Unity Package): https://drive.google.com/drive/folders/1uSZL9VLKWrT2mUdXgKdaUr8EQlYOeRyV?usp=sharing)
 2. Open Crystal-Royale-Mul.exe
 
 ***
