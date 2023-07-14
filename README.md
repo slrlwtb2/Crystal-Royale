@@ -8,8 +8,9 @@ Crystal Royal is a game program that offers MOBA (Multiplayer Online Battle Aren
 Crystal Royal is a unique blend of MOBA and card game styles. Players must strategically utilize the cards they hold to gain an upper hand and potentially reverse the situation, thereby increasing their chances of defeating their opponent.
 #### Videos
 
-1. : [Introduction&Gameplay](https://www.youtube.com/watch?v=4zJT-O5qGoU)
-2. : [Hero Profile](https://www.youtube.com/watch?v=Pb_jGFIZtQo)
+1. : [Introduction](https://www.youtube.com/watch?v=4zJT-O5qGoU)
+2. : [Gameplay](https://www.youtube.com/watch?v=jwV8d-m4nKE)
+3. : [Hero Profile](https://www.youtube.com/watch?v=Pb_jGFIZtQo)
 
 #### Installation
 
